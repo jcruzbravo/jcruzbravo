@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Joaquin 👨‍💻
 
-<!--
-**jcruzbravo/jcruzbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const joaco = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
+  tools: [React, Angular, Node, Astro],
+  challenge: "I am doing my portfolio"
+}
+```
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me: jcruzbravo2000@gmail.com
 
-Here are some ideas to get you started:
+Some of my recent applications are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-TODO list: https://jcruzbravo.github.io/introduction-react-js/
+-A digital store with React: https://jcruzbravo.github.io/react-shop/
+

@@ -14,6 +14,6 @@ const joaco = {
 
 Some of my recent applications are:
 
--TODO list: https://jcruzbravo.github.io/introduction-react-js/
--A digital store with React: https://jcruzbravo.github.io/react-shop/
+- TODO list: https://jcruzbravo.github.io/introduction-react-js/
+- A digital store with React: https://jcruzbravo.github.io/react-shop/
 - My first personal project with React: https://fortnite-info.vercel.app/

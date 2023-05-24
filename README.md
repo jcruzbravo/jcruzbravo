@@ -3,9 +3,9 @@
 ```js
 const joaco = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java],
-  tools: [React, Angular, Node, Astro],
-  challenge: "I am doing my portfolio"
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, Java, PHP],
+  tools: [React, Angular, Node, Astro, Laravel, Cakephp, Nextjs],
+  challenge: "Developing an online store with React js and Vite"
 }
 ```
 - 🔭 I'm currently working as a full stack web developer

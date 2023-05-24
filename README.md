@@ -8,8 +8,8 @@ const joaco = {
   challenge: "I am doing my portfolio"
 }
 ```
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning React.js
+- 🔭 I'm currently working as a full stack web developer
+- 🌱 I’m currently learning Nextjs
 - 📫 How to reach me: jcruzbravo2000@gmail.com
 
 Some of my recent applications are:

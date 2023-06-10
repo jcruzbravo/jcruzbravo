@@ -8,12 +8,12 @@ const joaco = {
   challenge: "Developing an online store with React js and Vite"
 }
 ```
-- 🔭 I'm currently working as a full stack web developer
-- 🌱 I’m currently learning Nextjs
+- 🔭 I'm currently working as a full stack web developer with Laravel
 - 📫 How to reach me: jcruzbravo2000@gmail.com
 
 Some of my recent applications are:
 
 - TODO list: https://jcruzbravo.github.io/introduction-react-js/
 - A digital store with React: https://jcruzbravo.github.io/react-shop/
+- Another digital store with React, Vite and Tailwindcss: https://jsh0p.netlify.app/
 - My first personal project with React: https://fortnite-info.vercel.app/

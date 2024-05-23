@@ -4,8 +4,8 @@
 const joaco = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java, PHP],
-  tools: [React, Angular, Node, Astro, Laravel, Cakephp, Nextjs],
-  challenge: "Developing an online store with React js and Vite"
+  tools: [React, Vue, Angular, Node, Astro, Laravel, Cakephp, Nextjs],
+  challenge: "Developing public administration systems"
 }
 ```
 - 🔭 I'm currently working as a full stack web developer with Laravel

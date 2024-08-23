@@ -4,7 +4,7 @@
 const joaco = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java, PHP],
-  tools: [React, Vue, Angular, Node, Astro, Laravel, Cakephp, Nextjs],
+  tools: [React, Vue.js, Angular, Node, Astro, Laravel, Cakephp, Next.js, Livewire],
   challenge: "Developing public administration systems"
 }
 ```

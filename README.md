@@ -4,7 +4,7 @@
 const joaco = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java, PHP],
-  tools: [React, Vue.js, Angular, Node, Astro, Laravel, Cakephp, Next.js, Livewire],
+  tools: [React, Vue.js, Angular, Node, Astro, Laravel, Cakephp, Next.js, Livewire, Filamentphp],
   challenge: "Developing public administration systems"
 }
 ```
@@ -17,3 +17,4 @@ Some of my recent applications are:
 - A digital store with React: https://jcruzbravo.github.io/react-shop/
 - Another digital store with React, Vite and Tailwindcss: https://jsh0p.netlify.app/
 - My first personal project with React: https://fortnite-info.vercel.app/
+- Fortnite Informer: https://fortnite-informer-v2.vercel.app/

@@ -9,7 +9,7 @@ const joaco = {
 }
 ```
 - 🔭 I'm currently working as a full stack web developer with Laravel
-- 📫 How to reach me: jcruzbravo2000@gmail.com
+- 📫 How to reach me: dev.jcruzbravogmail.com
 
 Some of my recent applications are:
 

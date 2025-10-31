@@ -4,12 +4,12 @@
 const joaco = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#, Python, Java, PHP],
-  tools: [React, Vue.js, Angular, Node, Astro, Laravel, Cakephp, Next.js, Livewire, Filamentphp],
+  tools: [React, Vue.js, Angular, Node, Astro, Laravel, Cakephp, Next.js, Livewire, Filamentphp, Docker],
   challenge: "Developing public administration systems"
 }
 ```
 - 🔭 I'm currently working as a full stack web developer with Laravel
-- 📫 How to reach me: dev.jcruzbravogmail.com
+- 📫 How to reach me: dev.jcruzbravo@gmail.com
 
 Some of my recent applications are:
 
